@@ -1,6 +1,6 @@
 - 👋 Hi, We are @codemagichq
 - 👀 We are the premier web development agency in Bangladesh
-- 🌱 Pyhton, PHP, NodeJS, and React
+- 🌱 Python, PHP, NodeJS, and React
 - 💞️ We're hiring designers & developers at codemagic.co/jobs
 - 📫 hello@codemagic.co
 
